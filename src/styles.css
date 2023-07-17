@@ -2,8 +2,6 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body {
   min-height: 100vh;
-  /* display: flex;
-  flex-direction: column; */
 }
 .sticky-footer {
   position: sticky;
